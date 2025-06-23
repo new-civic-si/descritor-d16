@@ -62,4 +62,20 @@
     color: #666;
     font-size: 0.9em;
   }
+
+.botao-ancora {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #005792;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  transition: background 0.3s;
+}
+
+.botao-ancora:hover {
+  background-color: #003f6d;
+}
+
   
